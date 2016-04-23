@@ -62,7 +62,7 @@ GIS是geographic information system的簡稱，即「地理資訊系統」。QGI
 	>注意，一定要加英文的分號
 
 4. 按F5, 執行指令。  
-   如果成功，『SQL 1下第二個視窗』會出現篩選出的資料。  『SQL 1下第三個視窗』會出現 7800 Rows returned from: select * from taiwan_village; (took 460ms)  
+   如果成功，『SQL 1下第二個視窗』會出現篩選出的資料。  『SQL 1下第三個視窗』會出現 `7800 Rows returned from: select * from taiwan_village; (took 460ms)`  
 5. 此時，可以選『SQL 1下第三個視窗』右方的按鈕，選「export to CSV」。  
 
 	> 如此，就可以把剛才的篩選結果，匯出成為有KML資訊的CSV檔。
